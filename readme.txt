@@ -4,4 +4,4 @@ git has a mutable index called stage
 git track changes of files
 hello world.
 add branch dev
-CREATING a new branch is quich & simple
+CREATING a new branch is quick and simple
